@@ -1,0 +1,14 @@
+{
+	"stuff": {
+		"type": "string"
+	},
+	"blah": {
+		"type": "Blah"
+	},
+	"more": {
+		"type": "float32"
+	},
+	"last": {
+		"type": "float64"
+	}
+}

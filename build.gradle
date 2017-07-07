@@ -1,0 +1,16 @@
+group 'net.jonathancottrill'
+version '0.0.1'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+	compile 'com.googlecode.json-simple:json-simple:1.1.1'
+
+    testCompile "junit:junit:4.12"
+}

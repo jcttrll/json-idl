@@ -1,0 +1,11 @@
+{
+	"decimalNumber": {
+		"type": "real"
+	},
+	"number": {
+		"type": "int64"
+	},
+	"recursiveDefinition": {
+		"type": "Blah"
+	}
+}
